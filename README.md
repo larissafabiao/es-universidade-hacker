@@ -8,3 +8,4 @@ Deixe a motivação aqui
 - Larissa Fabião da Fonseca (11208367) - larissafabiao
 - Youngwoo Yoon (11208496) - Daenja99
 - Mateus Arcanjo Lino (11270980) - arqueijo
+- Gustavo Camara Reis (11207780) - hockpond
