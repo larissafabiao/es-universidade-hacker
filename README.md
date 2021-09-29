@@ -1,2 +1,2 @@
-# es-universidade-hacker
+# Engenharia de Software - Universidade Hacker
 Jogo sobre segurança da informação
