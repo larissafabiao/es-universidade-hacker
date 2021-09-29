@@ -5,3 +5,4 @@ Deixe a motivação aqui
 
 # Integrantes
 - Anderson Giuseppe Saraiva Patriarca Fantin (9016981) - agspf94
+- Larissa Fabião da Fonseca (11208367) - larissafabiao
