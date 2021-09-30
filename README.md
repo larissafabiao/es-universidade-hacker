@@ -1,24 +1,11 @@
-# README
+# Engenharia de Software - Universidade Hacker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Motivação e Descrição
+Deixe a motivação aqui
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Integrantes
+- Anderson Giuseppe Saraiva Patriarca Fantin (9016981) - agspf94
+- Larissa Fabião da Fonseca (11208367) - larissafabiao
+- Mateus Arcanjo Lino (11270980) - arqueijo
+- Gustavo Camara Reis (11207780) - hockpond
+- Youngwoo Yoon (11208496) - Daenja99
