@@ -1,5 +1,7 @@
 # Engenharia de Software - Universidade Hacker
 ![image](https://app.travis-ci.com/agspf94/es-universidade-hacker.svg?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b1663227c5e0583626bf/maintainability)](https://codeclimate.com/github/agspf94/es-universidade-hacker/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b1663227c5e0583626bf/test_coverage)](https://codeclimate.com/github/agspf94/es-universidade-hacker/test_coverage)
 
 # Motivação e Descrição
 Deixe a motivação aqui
