@@ -6,12 +6,12 @@
 **Heroku:** TO DO<br>
 **Pivotal Tracker:** TO DO
 
-# Motivação e Descrição
-Deixe a motivação aqui
-
 # Integrantes
 - Anderson Giuseppe Saraiva Patriarca Fantin (9016981) - agspf94
 - Gustavo Camara Reis (11207780) - hockpond
 - Larissa Fabião da Fonseca (11208367) - larissafabiao
 - Mateus Arcanjo Lino (11270980) - arqueijo
 - Youngwoo Yoon (11208496) - Daenja99
+
+# Motivação e Descrição
+Deixe a motivação aqui
