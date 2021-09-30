@@ -10,7 +10,7 @@
 - Anderson Giuseppe Saraiva Patriarca Fantin (9016981) - agspf94
 - Gustavo Camara Reis (11207780) - hockpond
 - Jou Kuroda (11295737) - jou-kuroda
-- Larissa Fabião da Fonseca (11208367) - larissafabiao oi
+- Larissa Fabião da Fonseca (11208367) - larissafabiao
 - Mateus Arcanjo Lino (11270980) - arqueijo
 - Youngwoo Yoon (11208496) - Daenja99
 
