@@ -11,7 +11,7 @@
 - Gustavo Camara Reis (11207780) - hockpond
 - Jou Kuroda (11295737) - jou-kuroda
 - Larissa Fabião da Fonseca (11208367) - larissafabiao
-- Mateus Arcanjo Lino (11270980) - arqueijo
+- Mateus Arcanjo Lino (11270980) - arqueijo oi
 - Youngwoo Yoon (11208496) - Daenja99
 
 # Motivação e Descrição
