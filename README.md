@@ -7,7 +7,7 @@
 **Pivotal Tracker:** *TO DO*
 
 # Integrantes
-- Anderson Giuseppe Saraiva Patriarca Fantin (9016981) - agspf94
+- Anderson Giuseppe Saraiva Patriarca Fantin (9016981) - agspf94 - teste
 - Gustavo Camara Reis (11207780) - hockpond
 - Jou Kuroda (11295737) - jou-kuroda
 - Larissa Fabião da Fonseca (11208367) - larissafabiao
