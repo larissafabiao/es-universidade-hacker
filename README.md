@@ -4,7 +4,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b1663227c5e0583626bf/test_coverage)](https://codeclimate.com/github/agspf94/es-universidade-hacker/test_coverage)
 
 **Heroku:** https://es-universidade-hacker.herokuapp.com/<br>
-**Pivotal Tracker:** *TO DO*
+**Pivotal Tracker:** https://www.pivotaltracker.com/n/projects/2534236
 
 # Integrantes
 - Anderson Giuseppe Saraiva Patriarca Fantin (9016981) - agspf94
