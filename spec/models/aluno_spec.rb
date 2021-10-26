@@ -11,11 +11,10 @@ RSpec.describe Aluno, type: :model do
     a.nome = "teste@gmail.com"
     expect(a).not_to be_valid
   end
-  it 'invalido com email com formato nao suportado' do
+  it 'invalido com email no formato nao suportado' do
     a = Aluno.new
-    a.nome= "joao" 
-    a.email = "a,@gmail.com"    
+    a.nome = "Joao"
+    a.email = "a,@gmail.com"
     expect(a).not_to be_valid
   end
-
 end
