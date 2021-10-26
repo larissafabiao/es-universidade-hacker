@@ -77,7 +77,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/packs-test/";
+/******/ 	__webpack_require__.p = "/packs/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
@@ -1294,7 +1294,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
       form.removeChild(button);
     }
 
-    submitButtonsByForm.delete(form);
+    submitButtonsByForm["delete"](form);
   }
 
   function disable(input) {
@@ -1332,7 +1332,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
 
 /*
 Unobtrusive JavaScript
-https://github.com/rails/rails/blob/main/actionview/app/assets/javascripts
+https://github.com/rails/rails/blob/master/actionview/app/assets/javascripts
 Released under the MIT license
  */
 ;
@@ -1347,8 +1347,8 @@ Released under the MIT license
           exclude: 'form button'
         },
         inputChangeSelector: 'select[data-remote], input[data-remote], textarea[data-remote]',
-        formSubmitSelector: 'form:not([data-turbo=true])',
-        formInputClickSelector: 'form:not([data-turbo=true]) input[type=submit], form:not([data-turbo=true]) input[type=image], form:not([data-turbo=true]) button[type=submit], form:not([data-turbo=true]) button:not([type]), input[type=submit][form], input[type=image][form], button[type=submit][form], button[form]:not([type])',
+        formSubmitSelector: 'form',
+        formInputClickSelector: 'form input[type=submit], form input[type=image], form button[type=submit], form button:not([type]), input[type=submit][form], input[type=image][form], button[type=submit][form], button[form]:not([type])',
         formDisableSelector: 'input[data-disable-with]:enabled, button[data-disable-with]:enabled, textarea[data-disable-with]:enabled, input[data-disable]:enabled, button[data-disable]:enabled, textarea[data-disable]:enabled',
         formEnableSelector: 'input[data-disable-with]:disabled, button[data-disable-with]:disabled, textarea[data-disable-with]:disabled, input[data-disable]:disabled, button[data-disable]:disabled, textarea[data-disable]:disabled',
         fileInputSelector: 'input[name][type=file]:not([disabled])',
@@ -1584,9 +1584,9 @@ Released under the MIT license
 
         if (!options.crossDomain) {
           xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-          CSRFProtection(xhr);
         }
 
+        CSRFProtection(xhr);
         xhr.withCredentials = !!options.withCredentials;
 
         xhr.onreadystatechange = function () {
@@ -3240,4 +3240,4 @@ module.exports = function (module) {
 /***/ })
 
 /******/ });
-//# sourceMappingURL=application-c28cbe491b13cb99de76.js.map
+//# sourceMappingURL=application-9afcbb5693aa87623e69.js.map

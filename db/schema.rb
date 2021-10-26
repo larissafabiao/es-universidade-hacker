@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_10_21_215501) do
+ActiveRecord::Schema.define(version: 2020_08_31_141342) do
 
   create_table "alunos", force: :cascade do |t|
     t.string "nome"
