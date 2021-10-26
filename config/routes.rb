@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
   resources :alunos
-  root 'welcome#index'
+  root 'alunos#new'
 end
