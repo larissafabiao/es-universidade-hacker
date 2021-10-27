@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
   resources :alunos
-  root 'welcome#index'
+  resources :login
+  root 'login#new'
 end
