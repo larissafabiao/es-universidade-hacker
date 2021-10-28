@@ -4,7 +4,7 @@ class AlunosController < ApplicationController
   end
 
   def create
-    @aluno = Aluno.new(aluno_params)
+    @aluno = Aluno.new()
     if @aluno.save
       redirect_to @aluno
     else
@@ -20,4 +20,5 @@ class AlunosController < ApplicationController
   def aluno_params
     params.require(:aluno).permit(:nome, :email)
   end
+
 end
